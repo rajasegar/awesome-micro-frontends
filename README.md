@@ -10,6 +10,8 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Micro Frontends by Elisabeth Engel](https://micro-frontends.zeef.com/elisabeth.engel?ref=elisabeth.engel&share=ee53d51a914b4951ae5c94ece97642fc)
 - [Custom Elements Everywhere](https://custom-elements-everywhere.com/)
 - [Project Mosaic](https://www.mosaic9.org/)
+- [webcomponents.org](https://www.webcomponents.org)
+- [Polymer project](https://www.polymer-project.org)
 
 ## Posts
 - [Micro frontends - a microservice approach to front-end web development](https://medium.com/@tomsoderlund/micro-frontends-a-microservice-approach-to-front-end-web-development-f325ebdadc16)
@@ -38,6 +40,9 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Micro Frontend - Web Rebels, Oslo 2018](https://www.youtube.com/watch?v=dTW7eJsIHDg)
 - [Break Up With Your Frontend Monolith - JS Kongress 2017](https://www.youtube.com/watch?v=W3_8sxUurzA)
 - [Youtube Playlist - Micro Frontend Talks](https://www.youtube.com/playlist?list=PLI1AtZo9B3YL_xpi19IuxFcTuCi2_thQT)
+- [Micro­service Websites by Gustaf Nilsson Kotte ](https://vimeo.com/242458365)
+- [Breaking The Monolith ](https://vimeo.com/97666093)
+- [Microservice UI Composition ](https://www.oio.de/m/konf/wjax2016/Microservice-UI_WJAX2016.pdf)
 
 ## Slides
 - [Micro Frontends - JSUnconf.eu 2017](https://speakerdeck.com/naltatis/micro-frontends-building-a-modern-webapp-with-multiple-teams)
@@ -45,6 +50,15 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [ Migrating from Monolith to Microfrontends ](http://slides.com/yaprakayazoglu/monolith-to-microfrontend)
 - [ Microservice Websites (microXchg 2017) ](https://www.slideshare.net/GustafKotte/microservice-websites-microxchg-2017)
 - [ Microservice Websites Presentation ](https://www.slideshare.net/GustafKotte/microservice-websites-redev-2017-81811987)
+- [Avoid the Monolith by Michael Geers ](https://noti.st/naltatis/HxcUfZ/slides)
+- [Micro Frontends by Michael Geers ](https://speakerdeck.com/naltatis/micro-frontends-yglf-tel-aviv)
+- [Micro Frontends by Assaf Gannon ](https://de.slideshare.net/AssafGannon/micro-frontends)
+- [Micro Frontends by Srikanth Jallapuram ](https://de.slideshare.net/SrikanthJallapuram/micro-frontends-78813796)
+- [Micro Frontends: Building a modern webapp with multiple teams by Michael Geers ](https://speakerdeck.com/naltatis/micro-frontends-building-a-modern-webapp-with-multiple-teams)
+- [Introduction to micro frontends by Kuba Holak ](https://slides.com/kubaholak/introduction-to-micro-frontends)
+- [Microfrontends architecture by Lucca Mezzalira ](https://docs.google.com/presentation/d/1-SGjpuL6TibMlnawW42nFA9rDXclLrC_vQrn2cBJMo8/edit#slide=id.g35f391192_00)
+- [Lets talk about Micro Frontends](https://microfrontend.deckset.net/)
+- [Micro Frontends - a strive for fully verticalized systems ](https://speakerdeck.com/duffleit/micro-frontends-a-strive-for-fully-verticalized-systems)
 
 ## Tooling
 
@@ -76,6 +90,30 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [ Using Micro-Frontends to Permanently Solve the Legacy JavaScript Problem ](https://medium.com/hacking-talent/using-micro-frontends-to-permanently-solve-the-legacy-javascript-problem-5fba18b0ceac)
 - [ Micro Frontends with Gustaf Nilsson Kotte ](https://www.case-podcast.org/22-micro-frontends-with-gustaf-nilsson-kotte)
 
+## Follow on Twitter
+-[#microfrontend hashtag on Twitter ](https://twitter.com/hashtag/microfrontend)
+-[#microfrontends hashtag on Twitter ](https://twitter.com/hashtag/microfrontends)
+-[Micro Frontend News on Twitter ](https://twitter.com/_lizzelo_/lists/micro-frontend-news)
+-[Michael Geers (@naltatis) ](https://twitter.com/naltatis)
+-[Gustaf Nilsson Kotte (@gustaf_nk) ](https://twitter.com/gustaf_nk)
+-[Gil Fink (@gilfink) ](https://twitter.com/gilfink)
+-[Assaf Gannon (@assafga1) ](https://twitter.com/assafga1)
+-[Manfred Steyer (@ManfredSteyer) ](https://twitter.com/ManfredSteyer)
+-[Ivan Jovanovic (@ivanjov96) ](https://twitter.com/ivanjov96)
+-[Will Mendes (@willmendesneto) ](https://twitter.com/willmendesneto)
+-[Rustam Aliyev (@rstml) ](https://twitter.com/rstml)
+-[lucamezzalira (@lucamezzalira) ](https://twitter.com/lucamezzalira)
+-[David Leitner (@duffleit) ](https://twitter.com/duffleit)
+-[Yaprak Ayazoğlu (@yaprakaya) ](https://twitter.com/yaprakaya)
+-[kuba holak (@kubaholak) ](https://twitter.com/kubaholak)
+-[amanda muñoz (@amandamunoz) ](https://twitter.com/amandamunoz)
+-[Hans-Christian Otto (@muhdiekuh) ](https://twitter.com/muhdiekuh)
+-[Elmar 🐼 🇪🇺 (@elmarburke) ](https://twitter.com/elmarburke)
+-[Nils Röhrig (@drunknzombiecow) ](https://twitter.com/drunknzombiecow)
+-[Lucas Dohmen (@moonbeamlabs) ](https://twitter.com/moonbeamlabs)
+-[Emanuel Indermühle (@inthemill) ](https://twitter.com/inthemill)
+-[Rui Marques (@ruimarques84) ](https://twitter.com/ruimarques84)
+-[Elisabeth Engel (@_lizzelo_) ](https://twitter.com/_lizzelo_)
 
 ## Tutorials
 - 
