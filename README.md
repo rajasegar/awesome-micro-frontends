@@ -22,7 +22,17 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Micro-libraries: The Future of front-end development](http://blog.wolksoftware.com/microlibraries-the-future-of-web-development)
 - [The monolithic frontend in the microservices architecture](https://xebia.com/blog/the-monolithic-frontend-in-the-microservices-architecture/)
 - [A Software Architect's Approach towards MicroFrontends](https://www.softwarearchitekt.at/post/2017/12/28/a-software-architect-s-approach-towards-using-angular-and-spas-in-general-for-microservices-aka-microfrontends.aspx)
-
+- [ An approach to building Scalable Web Apps ](https://medium.com/@areai51/microfrontends-an-approach-to-building-scalable-web-apps-e8678e2acdd6)
+- [ A Take on Micro-Frontends ](https://x-team.com/blog/micro-frontend/)
+- [ Building Microfrontends - Series ](https://medium.com/@_rchaves_/building-microfrontends-part-i-creating-small-apps-710d709b48b7)
+- [ Including Front-End Web Components Into Microservices ](https://technologyconversations.com/2015/08/09/including-front-end-web-components-into-microservices/)
+- [ Microservice Grid and Micro Frontends ](https://dejanglozic.com/2017/02/22/microservice-grid-and-micro-frontends/)
+- [ Microservice Websites ](http://microservice-websites.netlify.com/)
+- [ Microservices to Micro-Frontends by Sandeep Jain ](http://www.agilechamps.com/microservices-to-micro-frontends/)
+- [ Front-end microservices with Web Components ](https://hackernoon.com/front-end-microservices-with-web-components-597759313393)
+- [ Supporting Micro-frontends with ASP.NET Core MVC ](https://blogs.msdn.microsoft.com/premier_developer/2018/03/09/supporting-micro-frontends-with-asp-net-core-mvc/)
+- [ Building micro frontends — angular elements  ](https://itnext.io/building-micro-frontend-applications-with-angular-elements-34483da08bcb)
+- [Micro Front-Ends: Webpack Manifest](https://medium.embengineering.com/micro-front-ends-webpack-manifest-b05fc63a0d53)
 
 ## Videos
 - [Micro Frontend - Web Rebels, Oslo 2018](https://www.youtube.com/watch?v=dTW7eJsIHDg)
@@ -33,6 +43,8 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Micro Frontends - JSUnconf.eu 2017](https://speakerdeck.com/naltatis/micro-frontends-building-a-modern-webapp-with-multiple-teams)
 - [Micro Frontend - Web Rebels, Oslo 2018](https://noti.st/naltatis/HxcUfZ/micro-frontends-think-smaller-avoid-the-monolith-love-the-backend)
 - [ Migrating from Monolith to Microfrontends ](http://slides.com/yaprakayazoglu/monolith-to-microfrontend)
+- [ Microservice Websites (microXchg 2017) ](https://www.slideshare.net/GustafKotte/microservice-websites-microxchg-2017)
+- [ Microservice Websites Presentation ](https://www.slideshare.net/GustafKotte/microservice-websites-redev-2017-81811987)
 
 ## Tooling
 
@@ -49,7 +61,6 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Microservices in the frontend with BFFs providing their own bundles and API.](https://github.com/dactylographsy/browser-dactylographsy)
 - [Simulate a micro frontend project using NodeJS, React and NGinx Reverse Proxy in Alpine Docker images](https://github.com/willmendesneto/micro-frontend-pages)
 - [manfredsteyer/Angular_MicroApps_Different_Technologies](https://github.com/manfredsteyer/Angular_MicroApps_Different_Technologies)
-- [Micro Front-Ends: Webpack Manifest](https://medium.embengineering.com/micro-front-ends-webpack-manifest-b05fc63a0d53)
 
 ## Experience Reports
 
