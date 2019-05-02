@@ -117,7 +117,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Elisabeth Engel (@_lizzelo_) ](https://twitter.com/_lizzelo_)
 
 ## Tutorials
-- 
+- [Micro Frontends Architecture](https://www.pluralsight.com/courses/micro-frontends-architecture)
 
 
 
