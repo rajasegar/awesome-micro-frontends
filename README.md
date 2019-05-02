@@ -35,6 +35,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [ Supporting Micro-frontends with ASP.NET Core MVC ](https://blogs.msdn.microsoft.com/premier_developer/2018/03/09/supporting-micro-frontends-with-asp-net-core-mvc/)
 - [ Building micro frontends — angular elements  ](https://itnext.io/building-micro-frontend-applications-with-angular-elements-34483da08bcb)
 - [Micro Front-Ends: Webpack Manifest](https://medium.embengineering.com/micro-front-ends-webpack-manifest-b05fc63a0d53)
+- [My experience using micro frontends by David Den Toom](https://medium.com/@daviddentoom/my-experience-using-micro-frontends-e99a1ad6ed32)
 
 ## Videos
 - [Micro Frontend - Web Rebels, Oslo 2018](https://www.youtube.com/watch?v=dTW7eJsIHDg)
