@@ -95,10 +95,13 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [ Micro Frontends with Gustaf Nilsson Kotte](https://www.case-podcast.org/22-micro-frontends-with-gustaf-nilsson-kotte)
 
 ## Follow on Twitter
+
+### Hashtags
 - [#microfrontend hashtag on Twitter](https://twitter.com/hashtag/microfrontend)
 - [#microfrontends hashtag on Twitter](https://twitter.com/hashtag/microfrontends)
 
 
+### People
 - [Amanda Muñoz (@amandamunoz)](https://twitter.com/amandamunoz)
 - [Assaf Gannon (@assafga1)](https://twitter.com/assafga1)
 - [Cam Jackson (@thecamjackson)](https://twitter.com/thecamjackson)
