@@ -77,6 +77,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Microservices in the frontend with BFFs providing their own bundles and API.](https://github.com/dactylographsy/browser-dactylographsy)
 - [Simulate a micro frontend project using NodeJS, React and NGinx Reverse Proxy in Alpine Docker images](https://github.com/willmendesneto/micro-frontend-pages)
 - [manfredsteyer/Angular_MicroApps_Different_Technologies](https://github.com/manfredsteyer/Angular_MicroApps_Different_Technologies)
+- [NUT - A framework born for micro frontends, which is used internally in Netease, currently it supports Vue, React and more](https://github.com/nut-project/nut)
 
 ## Experience Reports
 
