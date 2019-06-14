@@ -117,6 +117,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Emanuel Indermühle (@inthemill) ](https://twitter.com/inthemill)
 - [Rui Marques (@ruimarques84) ](https://twitter.com/ruimarques84)
 - [Elisabeth Engel (@_lizzelo_) ](https://twitter.com/_lizzelo_)
+- [Cam Jackson (@thecamjackson) ](https://twitter.com/thecamjackson)
 
 ## Tutorials
 - [Micro Frontends Architecture](https://www.pluralsight.com/courses/micro-frontends-architecture)
