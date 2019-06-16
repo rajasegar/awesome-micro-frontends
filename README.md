@@ -37,6 +37,10 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [ Building micro frontends — angular elements ](https://itnext.io/building-micro-frontend-applications-with-angular-elements-34483da08bcb)
 - [Micro Front-Ends: Webpack Manifest](https://medium.embengineering.com/micro-front-ends-webpack-manifest-b05fc63a0d53)
 - [My experience using micro frontends by David Den Toom](https://medium.com/@daviddentoom/my-experience-using-micro-frontends-e99a1ad6ed32)
+- [Page Building using Micro-Frontends and Server-Side Include](https://medium.com/js-dojo/page-building-using-micro-frontends-c13c157958c8)
+- [Strangling a Monolith to Micro-frontends with Laravel, Vue.js, and Hypernova](https://medium.com/js-dojo/strangling-a-monolith-to-micro-frontends-decoupling-presentation-layer-18a33ddf591b)
+- [Serverless Micro-frontends using Vue.js, AWS Lambda, and Hypernova](https://medium.com/js-dojo/serverless-micro-frontends-using-vue-js-aws-lambda-and-hypernova-835d6f2b3bc9)
+- [Using Micro-Frontends in WordPress with Gutenberg Blocks](https://itnext.io/using-micro-frontends-in-wordpress-with-gutenberg-blocks-882faad8cd62)
 
 ## Videos
 - [Micro Frontend - Web Rebels, Oslo 2018](https://www.youtube.com/watch?v=dTW7eJsIHDg)
@@ -110,6 +114,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Elisabeth Engel (@_lizzelo_)](https://twitter.com/_lizzelo_)
 - [Elmar 🐼 🇪🇺 (@elmarburke)](https://twitter.com/elmarburke)
 - [Emanuel Indermühle (@inthemill)](https://twitter.com/inthemill)
+- [Felipe Guizar Diaz(@felipeguizard)](https://twitter.com/felipeguizard)
 - [Gil Fink (@gilfink)](https://twitter.com/gilfink)
 - [Gustaf Nilsson Kotte (@gustaf_nk)](https://twitter.com/gustaf_nk)
 - [Hans-Christian Otto (@muhdiekuh)](https://twitter.com/muhdiekuh)
