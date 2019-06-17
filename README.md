@@ -70,10 +70,10 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ## Tooling
 
 - [Project Mosaic - Frontend Microservices](https://www.mosaic9.org)
-- [Single-spa examples](https://single-spa.surge.sh)
 - [lsm/micromono](https://github.com/lsm/micromono)
 - [A tiny, fast, zero-dependency event emitter](https://github.com/chrisdavies/eev)
-- [The javascript metaframework](https://github.com/CanopyTax/single-spa)
+- [Single-Spa a javascript framework for front-end microservices](https://github.com/CanopyTax/single-spa)
+- [Single-Spa examples](https://single-spa.surge.sh)
 - [extending the microservice paradigms to web development](https://github.com/neuland/micro-frontends)
 - [OpenComponents, a framework for developing and distributing html components](https://github.com/opencomponents/oc)
 - [Proxy middleware for express that enables composition of microservices.](https://github.com/tes/compoxure)
