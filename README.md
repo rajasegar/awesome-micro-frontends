@@ -5,6 +5,10 @@ An awesome list of posts, videos, talks and tutorials on Micro Front-end archite
 This is a github version of the Micro Frontends collection by Elisabeth Engel without any referral urls and other noise.
 Hoping to keep this list updated as much as possible, any new links through PRs are appreciated.
 
+## Slack Workspaces
+- [Micro-frontends](https://join.slack.com/t/micro-frontendsgroup/shared_invite/enQtNjY2MjI5OTc0MTk2LTJmNzk1OTlhNmYyMTFjMTVmMjQxMzU0YjVlMmY5NDYxM2JmYmIzZDM3MzdhMWU0Y2UwMzY3NDE4ZGNlNWM0YmE)
+- [Single-Spa](https://single-spa.slack.com/join/shared_invite/enQtMzIwMTcxNTU3ODQyLTM1Y2U1OWMzNTNjOWYyZDBlMDJhN2VkYzk3MDI2NzQ2Nzg0MzMzNjVhNWE2YjVhMTcxNjFkOWYzMjllMmUxMjk)
+
 ## Websites
 - [micro-frontends.org](http://micro-frontends.org)
 - [Micro Frontends by Elisabeth Engel](https://micro-frontends.zeef.com/elisabeth.engel?ref=elisabeth.engel&share=ee53d51a914b4951ae5c94ece97642fc)
