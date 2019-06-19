@@ -98,6 +98,8 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [ Let's build a Webshop out of Micro Frontends](https://blog.senacor.com/microfrontends/)
 - [ Using Micro-Frontends to Permanently Solve the Legacy JavaScript Problem](https://medium.com/hacking-talent/using-micro-frontends-to-permanently-solve-the-legacy-javascript-problem-5fba18b0ceac)
 - [ Micro Frontends with Gustaf Nilsson Kotte](https://www.case-podcast.org/22-micro-frontends-with-gustaf-nilsson-kotte)
+- [ Experiences Using Micro Frontends at IKEA](https://www.infoq.com/news/2018/08/experiences-micro-frontends/)
+- [ Microservice Websites: Building consumer-facing websites with multiple teams](https://gustafnk.github.io/microservice-websites)
 
 ## Follow on Twitter
 
