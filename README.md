@@ -62,6 +62,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [ Microservice Websites Presentation](https://www.slideshare.net/GustafKotte/microservice-websites-redev-2017-81811987)
 - [Avoid the Monolith by Michael Geers](https://noti.st/naltatis/HxcUfZ/slides)
 - [Micro Frontends by Michael Geers](https://speakerdeck.com/naltatis/micro-frontends-yglf-tel-aviv)
+- [Micro Frontends - The Nitty Gritty Details or Frontend, Backend, 🌈 Happyend](https://noti.st/naltatis/zQb2m5/micro-frontends-the-nitty-gritty-details-or-frontend-backend-happyend)
 - [Micro Frontends by Assaf Gannon](https://de.slideshare.net/AssafGannon/micro-frontends)
 - [Micro Frontends by Srikanth Jallapuram](https://de.slideshare.net/SrikanthJallapuram/micro-frontends-78813796)
 - [Micro Frontends: Building a modern webapp with multiple teams by Michael Geers](https://speakerdeck.com/naltatis/micro-frontends-building-a-modern-webapp-with-multiple-teams)
