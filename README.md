@@ -16,6 +16,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Project Mosaic](https://www.mosaic9.org/)
 - [webcomponents.org](https://www.webcomponents.org)
 - [Polymer project](https://www.polymer-project.org)
+- [Piral](https://piral.io)
 
 ## Posts
 - [Micro Frontends by Cam Jackson](https://martinfowler.com/articles/micro-frontends.html)
@@ -45,6 +46,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Strangling a Monolith to Micro-frontends with Laravel, Vue.js, and Hypernova](https://medium.com/js-dojo/strangling-a-monolith-to-micro-frontends-decoupling-presentation-layer-18a33ddf591b)
 - [Serverless Micro-frontends using Vue.js, AWS Lambda, and Hypernova](https://medium.com/js-dojo/serverless-micro-frontends-using-vue-js-aws-lambda-and-hypernova-835d6f2b3bc9)
 - [Using Micro-Frontends in WordPress with Gutenberg Blocks](https://itnext.io/using-micro-frontends-in-wordpress-with-gutenberg-blocks-882faad8cd62)
+- [Taming the Frontend Monolith](https://blog.logrocket.com/taming-the-front-end-monolith-dbaede402c39/)
 
 ## Videos
 - [Micro Frontend - Web Rebels, Oslo 2018](https://www.youtube.com/watch?v=dTW7eJsIHDg)
@@ -53,6 +55,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Micro­service Websites by Gustaf Nilsson Kotte](https://vimeo.com/242458365)
 - [Breaking The Monolith](https://vimeo.com/97666093)
 - [Microservice UI Composition](https://www.oio.de/m/konf/wjax2016/Microservice-UI_WJAX2016.pdf)
+- [Introduction to Piral](https://www.youtube.com/watch?v=SkKvpBHy_5I)
 
 ## Slides
 - [Micro Frontends - JSUnconf.eu 2017](https://speakerdeck.com/naltatis/micro-frontends-building-a-modern-webapp-with-multiple-teams)
