@@ -78,6 +78,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ## Tooling
 
 - [Project Mosaic - Frontend Microservices](https://www.mosaic9.org)
+- [PuzzleJs - Frontend Microservices Framework](https://github.com/puzzle-js/puzzle-js)
 - [lsm/micromono](https://github.com/lsm/micromono)
 - [A tiny, fast, zero-dependency event emitter](https://github.com/chrisdavies/eev)
 - [Single-Spa a javascript framework for front-end microservices](https://github.com/CanopyTax/single-spa)
