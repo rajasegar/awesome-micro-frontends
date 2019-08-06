@@ -18,6 +18,9 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Polymer project](https://www.polymer-project.org)
 - [Piral](https://piral.io)
 
+## Books
+- [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action)
+
 ## Posts
 - [Micro Frontends by Cam Jackson](https://martinfowler.com/articles/micro-frontends.html)
 - [Micro frontends - a microservice approach to front-end web development](https://medium.com/@tomsoderlund/micro-frontends-a-microservice-approach-to-front-end-web-development-f325ebdadc16)
