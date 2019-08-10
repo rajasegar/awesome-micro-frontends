@@ -12,10 +12,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ## Websites
 - [micro-frontends.org](http://micro-frontends.org)
 - [Micro Frontends by Elisabeth Engel](https://micro-frontends.zeef.com/elisabeth.engel?ref=elisabeth.engel&share=ee53d51a914b4951ae5c94ece97642fc)
-- [Custom Elements Everywhere](https://custom-elements-everywhere.com/)
 - [Project Mosaic](https://www.mosaic9.org/)
-- [webcomponents.org](https://www.webcomponents.org)
-- [Polymer project](https://www.polymer-project.org)
 - [Piral](https://piral.io)
 
 ## Books
