@@ -17,6 +17,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [webcomponents.org](https://www.webcomponents.org)
 - [Polymer project](https://www.polymer-project.org)
 - [Piral](https://piral.io)
+- [Mashroom Server](https://www.mashroom-server.com)
 
 ## Books
 - [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action)
