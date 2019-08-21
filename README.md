@@ -14,6 +14,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Micro Frontends by Elisabeth Engel](https://micro-frontends.zeef.com/elisabeth.engel?ref=elisabeth.engel&share=ee53d51a914b4951ae5c94ece97642fc)
 - [Project Mosaic](https://www.mosaic9.org/)
 - [Piral](https://piral.io)
+- [Mashroom Server](https://www.mashroom-server.com)
 
 ## Books
 - [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action)
