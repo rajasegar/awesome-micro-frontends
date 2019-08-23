@@ -12,9 +12,34 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ## Websites
 - [micro-frontends.org](http://micro-frontends.org)
 - [Micro Frontends by Elisabeth Engel](https://micro-frontends.zeef.com/elisabeth.engel?ref=elisabeth.engel&share=ee53d51a914b4951ae5c94ece97642fc)
+
+## Tools
+
+### Projects
 - [Project Mosaic](https://www.mosaic9.org/)
-- [Piral](https://piral.io)
+
+### Frameworks
+- [Ara Framework](https://ara-framework.github.io/website/)
+- [OpenComponents, a framework for developing and distributing html components](https://github.com/opencomponents/oc)
+- [NUT](https://github.com/nut-project/nut)
+- [Single-Spa](https://single-spa.js.org/)
+- [PuzzleJs](https://github.com/puzzle-js/puzzle-js)
+
+### Platforms
 - [Mashroom Server](https://www.mashroom-server.com)
+- [Piral](https://piral.io)
+
+### Related
+- [Angular_MicroApps_Different_Technologies](https://github.com/manfredsteyer/Angular_MicroApps_Different_Technologies)
+- [A tiny, fast, zero-dependency event emitter](https://github.com/chrisdavies/eev)
+- [Exercises for course "Integrating microservices on the frontend"](https://github.com/0xR/micro-frontend)
+- [Extending the microservice paradigms to web development](https://github.com/neuland/micro-frontends)
+- [Micromono](https://github.com/lsm/micromono)
+- [Microservices in the frontend with BFFs providing their own bundles and API.](https://github.com/dactylographsy/browser-dactylographsy)
+- [Proxy middleware for express that enables composition of microservices.](https://github.com/tes/compoxure)
+- [Service Oriented Front-end](https://github.com/CanopyTax/sofe)
+- [Simulate a micro frontend project using NodeJS, React and NGinx Reverse Proxy in Alpine Docker images](https://github.com/willmendesneto/micro-frontend-pages)
+
 
 ## Books
 - [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action)
@@ -76,23 +101,6 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Micro Frontends - a strive for fully verticalized systems](https://speakerdeck.com/duffleit/micro-frontends-a-strive-for-fully-verticalized-systems)
 - [Building micro-frontends by Luca Mezzalira](https://docs.google.com/presentation/d/1DgK2mjJ9IYbCmjgzJH5ru5YLv88zKpcCxKrMozqnT3A/edit#slide=id.g42f50ce565_0_651)
 
-## Tooling
-
-- [Project Mosaic - Frontend Microservices](https://www.mosaic9.org)
-- [PuzzleJs - Frontend Microservices Framework](https://github.com/puzzle-js/puzzle-js)
-- [lsm/micromono](https://github.com/lsm/micromono)
-- [A tiny, fast, zero-dependency event emitter](https://github.com/chrisdavies/eev)
-- [Single-Spa a javascript framework for front-end microservices](https://github.com/CanopyTax/single-spa)
-- [Single-Spa examples](https://single-spa.surge.sh)
-- [extending the microservice paradigms to web development](https://github.com/neuland/micro-frontends)
-- [OpenComponents, a framework for developing and distributing html components](https://github.com/opencomponents/oc)
-- [Proxy middleware for express that enables composition of microservices.](https://github.com/tes/compoxure)
-- [Exercises for course "Integrating microservices on the frontend"](https://github.com/0xR/micro-frontend)
-- [Service Oriented Front-end](https://github.com/CanopyTax/sofe)
-- [Microservices in the frontend with BFFs providing their own bundles and API.](https://github.com/dactylographsy/browser-dactylographsy)
-- [Simulate a micro frontend project using NodeJS, React and NGinx Reverse Proxy in Alpine Docker images](https://github.com/willmendesneto/micro-frontend-pages)
-- [manfredsteyer/Angular_MicroApps_Different_Technologies](https://github.com/manfredsteyer/Angular_MicroApps_Different_Technologies)
-- [NUT - A framework born for micro frontends, which is used internally in Netease, currently it supports Vue, React and more](https://github.com/nut-project/nut)
 
 ## Experience Reports
 
