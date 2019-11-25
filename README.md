@@ -136,6 +136,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Elmar 🐼 🇪🇺 (@elmarburke)](https://twitter.com/elmarburke)
 - [Emanuel Indermühle (@inthemill)](https://twitter.com/inthemill)
 - [Felipe Guizar Diaz (@felipeguizard)](https://twitter.com/felipeguizard)
+- [Florian Rappl (@FlorianRappl)](https://twitter.com/FlorianRappl)
 - [Gil Fink (@gilfink)](https://twitter.com/gilfink)
 - [Gustaf Nilsson Kotte (@gustaf_nk)](https://twitter.com/gustaf_nk)
 - [Hans-Christian Otto (@muhdiekuh)](https://twitter.com/muhdiekuh)
