@@ -157,8 +157,9 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Yaprak Ayazoğlu (@yaprakaya)](https://twitter.com/yaprakaya)
 
 
-## Tutorials
+## Courses and Tutorials
 - [Micro Frontends Architecture](https://www.pluralsight.com/courses/micro-frontends-architecture)
+- [Building micro-frontends](https://learning.oreilly.com/live-training/courses/building-micro-frontends/0636920358800/)
 
 
 
