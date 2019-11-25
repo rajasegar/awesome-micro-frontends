@@ -46,6 +46,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action)
 
 ## Posts
+- [6 Patterns for Microfrontends](https://blog.bitsrc.io/6-patterns-for-microfrontends-347ae0017ec0)
 - [Micro Frontends by Cam Jackson](https://martinfowler.com/articles/micro-frontends.html)
 - [Micro frontends - a microservice approach to front-end web development](https://medium.com/@tomsoderlund/micro-frontends-a-microservice-approach-to-front-end-web-development-f325ebdadc16)
 - [Microservices to Micro-Frontends](http://www.agilechamps.com/microservices-to-micro-frontends/)
