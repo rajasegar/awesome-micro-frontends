@@ -157,7 +157,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Rustam Aliyev (@rstml)](https://twitter.com/rstml)
 - [Will Mendes (@willmendesneto)](https://twitter.com/willmendesneto)
 - [Yaprak Ayazoğlu (@yaprakaya)](https://twitter.com/yaprakaya)
-- [Zack Jackson](https://twitter.com/ScriptedAlchemy)
+- [Zack Jackson (@ScriptedAlchemy)](https://twitter.com/ScriptedAlchemy)
 
 
 ## Courses and Tutorials
