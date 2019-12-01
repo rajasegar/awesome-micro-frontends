@@ -76,6 +76,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Serverless Micro-frontends using Vue.js, AWS Lambda, and Hypernova](https://medium.com/js-dojo/serverless-micro-frontends-using-vue-js-aws-lambda-and-hypernova-835d6f2b3bc9)
 - [Using Micro-Frontends in WordPress with Gutenberg Blocks](https://itnext.io/using-micro-frontends-in-wordpress-with-gutenberg-blocks-882faad8cd62)
 - [Taming the Frontend Monolith](https://blog.logrocket.com/taming-the-front-end-monolith-dbaede402c39/)
+- [Micro-frontend Architecture: Replacing a Monolith from the Inside Out](https://levelup.gitconnected.com/micro-frontend-architecture-replacing-a-monolith-from-the-inside-out-61f60d2e14c1)
 
 ## Videos
 - [Micro Frontend - Web Rebels, Oslo 2018](https://www.youtube.com/watch?v=dTW7eJsIHDg)
@@ -156,6 +157,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Rustam Aliyev (@rstml)](https://twitter.com/rstml)
 - [Will Mendes (@willmendesneto)](https://twitter.com/willmendesneto)
 - [Yaprak Ayazoğlu (@yaprakaya)](https://twitter.com/yaprakaya)
+- [Zack Jackson](https://twitter.com/ScriptedAlchemy)
 
 
 ## Courses and Tutorials
