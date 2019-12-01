@@ -25,6 +25,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [NUT](https://github.com/nut-project/nut)
 - [Single-Spa](https://single-spa.js.org/)
 - [PuzzleJs](https://github.com/puzzle-js/puzzle-js)
+- [icestark, a micro frontends solution for large application](https://github.com/ice-lab/icestark)
 
 ### Platforms
 - [Mashroom Server](https://www.mashroom-server.com)
