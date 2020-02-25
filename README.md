@@ -45,6 +45,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## Books
 - [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action)
+- [Building Micro-Frontends](https://www.buildingmicrofrontends.com/)
 
 ## Posts
 - [6 Patterns for Microfrontends](https://blog.bitsrc.io/6-patterns-for-microfrontends-347ae0017ec0)
