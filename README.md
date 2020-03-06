@@ -20,6 +20,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Project Mosaic](https://www.mosaic9.org/)
 
 ### Frameworks
+- [Misk Web: a Micro-Frontends React + Redux + Typescript Framework](https://cashapp.github.io/misk-web/)
 - [Ara Framework](https://ara-framework.github.io/website/)
 - [OpenComponents, a framework for developing and distributing html components](https://github.com/opencomponents/oc)
 - [NUT](https://github.com/nut-project/nut)
