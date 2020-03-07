@@ -1,6 +1,6 @@
-# Awesome Micro-Frontends
-An awesome list of posts, videos, talks and tutorials on Micro Front-end architectures.
+# Awesome Micro-Frontends [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
+An awesome list of resources about **Micro-Frontends** architecture such as tools, books, posts, videos, talks and more.
 
 This is a github version of the Micro Frontends collection by Elisabeth Engel without any referral urls and other noise.
 Hoping to keep this list updated as much as possible, any new links through PRs are appreciated.
@@ -14,15 +14,50 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Experience Reports](#experience-reports)
 - [Follow on Twitter](#follow-on-twitter)
 
+## Slack Workspaces
+- [Micro-frontends](https://join.slack.com/t/micro-frontendsgroup/shared_invite/enQtNzA0NjM2NjA5NjU0LWQ5MjFiNjkxZTRhYTU3ZjQ3NWU1Njg3MWFjYzhjZjVhNjAxMzdkODJiZTMzNDZiYmYwZjUwZTk1ZmU3M2M2NDI)
+- [Single-Spa](https://single-spa.slack.com/join/shared_invite/enQtMzIwMTcxNTU3ODQyLTM1Y2U1OWMzNTNjOWYyZDBlMDJhN2VkYzk3MDI2NzQ2Nzg0MzMzNjVhNWE2YjVhMTcxNjFkOWYzMjllMmUxMjk)
+
 ## Websites
 - [micro-frontends.org](http://micro-frontends.org)
 - [Micro Frontends by Elisabeth Engel](https://micro-frontends.zeef.com/elisabeth.engel?ref=elisabeth.engel&share=ee53d51a914b4951ae5c94ece97642fc)
-- [Custom Elements Everywhere](https://custom-elements-everywhere.com/)
+
+## Tools
+
+### Projects
 - [Project Mosaic](https://www.mosaic9.org/)
-- [webcomponents.org](https://www.webcomponents.org)
-- [Polymer project](https://www.polymer-project.org)
+
+### Frameworks
+- [Misk Web: a Micro-Frontends React + Redux + Typescript Framework](https://cashapp.github.io/misk-web/)
+- [Ara Framework](https://ara-framework.github.io/website/)
+- [OpenComponents, a framework for developing and distributing html components](https://github.com/opencomponents/oc)
+- [NUT](https://github.com/nut-project/nut)
+- [Single-Spa](https://single-spa.js.org/)
+- [PuzzleJs](https://github.com/puzzle-js/puzzle-js)
+- [icestark, a micro frontends solution for large application](https://github.com/ice-lab/icestark)
+
+### Platforms
+- [Mashroom Server](https://www.mashroom-server.com)
+- [Piral](https://piral.io)
+
+### Related
+- [Angular_MicroApps_Different_Technologies](https://github.com/manfredsteyer/Angular_MicroApps_Different_Technologies)
+- [A tiny, fast, zero-dependency event emitter](https://github.com/chrisdavies/eev)
+- [Exercises for course "Integrating microservices on the frontend"](https://github.com/0xR/micro-frontend)
+- [Extending the microservice paradigms to web development](https://github.com/neuland/micro-frontends)
+- [Micromono](https://github.com/lsm/micromono)
+- [Microservices in the frontend with BFFs providing their own bundles and API.](https://github.com/dactylographsy/browser-dactylographsy)
+- [Proxy middleware for express that enables composition of microservices.](https://github.com/tes/compoxure)
+- [Service Oriented Front-end](https://github.com/CanopyTax/sofe)
+- [Simulate a micro frontend project using NodeJS, React and NGinx Reverse Proxy in Alpine Docker images](https://github.com/willmendesneto/micro-frontend-pages)
+
+
+## Books
+- [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action)
+- [Building Micro-Frontends](https://www.buildingmicrofrontends.com/)
 
 ## Posts
+- [6 Patterns for Microfrontends](https://blog.bitsrc.io/6-patterns-for-microfrontends-347ae0017ec0)
 - [Micro Frontends by Cam Jackson](https://martinfowler.com/articles/micro-frontends.html)
 - [Micro frontends - a microservice approach to front-end web development](https://medium.com/@tomsoderlund/micro-frontends-a-microservice-approach-to-front-end-web-development-f325ebdadc16)
 - [Microservices to Micro-Frontends](http://www.agilechamps.com/microservices-to-micro-frontends/)
@@ -46,6 +81,13 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [ Building micro frontends — angular elements ](https://itnext.io/building-micro-frontend-applications-with-angular-elements-34483da08bcb)
 - [Micro Front-Ends: Webpack Manifest](https://medium.embengineering.com/micro-front-ends-webpack-manifest-b05fc63a0d53)
 - [My experience using micro frontends by David Den Toom](https://medium.com/@daviddentoom/my-experience-using-micro-frontends-e99a1ad6ed32)
+- [Page Building using Micro-Frontends and Server-Side Include](https://medium.com/js-dojo/page-building-using-micro-frontends-c13c157958c8)
+- [Strangling a Monolith to Micro-frontends with Laravel, Vue.js, and Hypernova](https://medium.com/js-dojo/strangling-a-monolith-to-micro-frontends-decoupling-presentation-layer-18a33ddf591b)
+- [Serverless Micro-frontends using Vue.js, AWS Lambda, and Hypernova](https://medium.com/js-dojo/serverless-micro-frontends-using-vue-js-aws-lambda-and-hypernova-835d6f2b3bc9)
+- [Using Micro-Frontends in WordPress with Gutenberg Blocks](https://itnext.io/using-micro-frontends-in-wordpress-with-gutenberg-blocks-882faad8cd62)
+- [Taming the Frontend Monolith](https://blog.logrocket.com/taming-the-front-end-monolith-dbaede402c39/)
+- [Micro-frontend Architecture: Replacing a Monolith from the Inside Out](https://levelup.gitconnected.com/micro-frontend-architecture-replacing-a-monolith-from-the-inside-out-61f60d2e14c1)
+- [Breaking down the last Monolith - Micro Frontends](https://dev.to/aregee/breaking-down-the-last-monolith-micro-frontends-hd4)
 
 ## Videos
 - [Micro Frontend - Web Rebels, Oslo 2018](https://www.youtube.com/watch?v=dTW7eJsIHDg)
@@ -54,6 +96,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Micro­service Websites by Gustaf Nilsson Kotte](https://vimeo.com/242458365)
 - [Breaking The Monolith](https://vimeo.com/97666093)
 - [Microservice UI Composition](https://www.oio.de/m/konf/wjax2016/Microservice-UI_WJAX2016.pdf)
+- [Introduction to Piral](https://www.youtube.com/watch?v=SkKvpBHy_5I)
 
 ## Slides
 - [Micro Frontends - JSUnconf.eu 2017](https://speakerdeck.com/naltatis/micro-frontends-building-a-modern-webapp-with-multiple-teams)
@@ -63,6 +106,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [ Microservice Websites Presentation](https://www.slideshare.net/GustafKotte/microservice-websites-redev-2017-81811987)
 - [Avoid the Monolith by Michael Geers](https://noti.st/naltatis/HxcUfZ/slides)
 - [Micro Frontends by Michael Geers](https://speakerdeck.com/naltatis/micro-frontends-yglf-tel-aviv)
+- [Micro Frontends - The Nitty Gritty Details or Frontend, Backend, 🌈 Happyend](https://noti.st/naltatis/zQb2m5/micro-frontends-the-nitty-gritty-details-or-frontend-backend-happyend)
 - [Micro Frontends by Assaf Gannon](https://de.slideshare.net/AssafGannon/micro-frontends)
 - [Micro Frontends by Srikanth Jallapuram](https://de.slideshare.net/SrikanthJallapuram/micro-frontends-78813796)
 - [Micro Frontends: Building a modern webapp with multiple teams by Michael Geers](https://speakerdeck.com/naltatis/micro-frontends-building-a-modern-webapp-with-multiple-teams)
@@ -72,22 +116,6 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Micro Frontends - a strive for fully verticalized systems](https://speakerdeck.com/duffleit/micro-frontends-a-strive-for-fully-verticalized-systems)
 - [Building micro-frontends by Luca Mezzalira](https://docs.google.com/presentation/d/1DgK2mjJ9IYbCmjgzJH5ru5YLv88zKpcCxKrMozqnT3A/edit#slide=id.g42f50ce565_0_651)
 
-## Tooling
-
-- [Project Mosaic - Frontend Microservices](https://www.mosaic9.org)
-- [Single-spa examples](https://single-spa.surge.sh)
-- [lsm/micromono](https://github.com/lsm/micromono)
-- [A tiny, fast, zero-dependency event emitter](https://github.com/chrisdavies/eev)
-- [The javascript metaframework](https://github.com/CanopyTax/single-spa)
-- [extending the microservice paradigms to web development](https://github.com/neuland/micro-frontends)
-- [OpenComponents, a framework for developing and distributing html components](https://github.com/opencomponents/oc)
-- [Proxy middleware for express that enables composition of microservices.](https://github.com/tes/compoxure)
-- [Exercises for course "Integrating microservices on the frontend"](https://github.com/0xR/micro-frontend)
-- [Service Oriented Front-end](https://github.com/CanopyTax/sofe)
-- [Microservices in the frontend with BFFs providing their own bundles and API.](https://github.com/dactylographsy/browser-dactylographsy)
-- [Simulate a micro frontend project using NodeJS, React and NGinx Reverse Proxy in Alpine Docker images](https://github.com/willmendesneto/micro-frontend-pages)
-- [manfredsteyer/Angular_MicroApps_Different_Technologies](https://github.com/manfredsteyer/Angular_MicroApps_Different_Technologies)
-- [NUT - A framework born for micro frontends, which is used internally in Netease, currently it supports Vue, React and more](https://github.com/nut-project/nut)
 
 ## Experience Reports
 
@@ -96,12 +124,15 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [ Hello Fresh: Front-end Microservices](https://engineering.hellofresh.com/front-end-microservices-at-hellofresh-23978a611b87)
 - [ OpenTable: Microservices in the Frontend World](http://tech.opentable.co.uk/blog/2016/04/27/opencomponents-microservices-in-the-front-end-world/)
 - [ OpenTable: Dismantling the monolith](http://tech.opentable.co.uk/blog/2015/02/09/dismantling-the-monolith-microsites-at-opentable/)
+- [ 5 years of OpenComponents](https://medium.com/@matteofigus/5-years-of-opencomponents-3114e6d6a35b)
 - [ AutoScout24: UI Composition](https://medium.com/scout24-engineering)
 - [ Klarna Checkout](https://news.ycombinator.com/item?id=13012916)
 - [ Spotify: Technology Stack](https://www.quora.com/What-is-the-technology-stack-behind-the-Spotify-web-client/answer/Andreas-Blixt)
 - [ Let's build a Webshop out of Micro Frontends](https://blog.senacor.com/microfrontends/)
 - [ Using Micro-Frontends to Permanently Solve the Legacy JavaScript Problem](https://medium.com/hacking-talent/using-micro-frontends-to-permanently-solve-the-legacy-javascript-problem-5fba18b0ceac)
 - [ Micro Frontends with Gustaf Nilsson Kotte](https://www.case-podcast.org/22-micro-frontends-with-gustaf-nilsson-kotte)
+- [ Experiences Using Micro Frontends at IKEA](https://www.infoq.com/news/2018/08/experiences-micro-frontends/)
+- [ Microservice Websites: Building consumer-facing websites with multiple teams](https://gustafnk.github.io/microservice-websites)
 
 ## Follow on Twitter
 
@@ -118,25 +149,32 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Elisabeth Engel (@_lizzelo_)](https://twitter.com/_lizzelo_)
 - [Elmar 🐼 🇪🇺 (@elmarburke)](https://twitter.com/elmarburke)
 - [Emanuel Indermühle (@inthemill)](https://twitter.com/inthemill)
+- [Felipe Guizar Diaz (@felipeguizard)](https://twitter.com/felipeguizard)
+- [Florian Rappl (@FlorianRappl)](https://twitter.com/FlorianRappl)
 - [Gil Fink (@gilfink)](https://twitter.com/gilfink)
 - [Gustaf Nilsson Kotte (@gustaf_nk)](https://twitter.com/gustaf_nk)
 - [Hans-Christian Otto (@muhdiekuh)](https://twitter.com/muhdiekuh)
 - [Ivan Jovanovic (@ivanjov96)](https://twitter.com/ivanjov96)
+- [Joel Denning (@Joelbdenning)](https://twitter.com/Joelbdenning)
 - [Kuba Holak (@kubaholak)](https://twitter.com/kubaholak)
 - [Luca Mezzalira (@lucamezzalira)](https://twitter.com/lucamezzalira)
 - [Lucas Dohmen (@moonbeamlabs)](https://twitter.com/moonbeamlabs)
 - [Manfred Steyer (@ManfredSteyer)](https://twitter.com/ManfredSteyer)
 - [Michael Geers (@naltatis)](https://twitter.com/naltatis)
 - [Micro Frontend News on Twitter](https://twitter.com/_lizzelo_/lists/micro-frontend-news)
+- [Matteo Figus (@matteofigus)](https://twitter.com/matteofigus)
 - [Nils Röhrig (@drunknzombiecow)](https://twitter.com/drunknzombiecow)
 - [Rui Marques (@ruimarques84)](https://twitter.com/ruimarques84)
 - [Rustam Aliyev (@rstml)](https://twitter.com/rstml)
 - [Will Mendes (@willmendesneto)](https://twitter.com/willmendesneto)
 - [Yaprak Ayazoğlu (@yaprakaya)](https://twitter.com/yaprakaya)
+- [Zack Jackson (@ScriptedAlchemy)](https://twitter.com/ScriptedAlchemy)
+- [Rahul Gaur (@iamaregee)](https://twitter.com/iamaregee)
 
 
-## Tutorials
+## Courses and Tutorials
 - [Micro Frontends Architecture](https://www.pluralsight.com/courses/micro-frontends-architecture)
+- [Building micro-frontends](https://learning.oreilly.com/live-training/courses/building-micro-frontends/0636920358800/)
 
 
 
