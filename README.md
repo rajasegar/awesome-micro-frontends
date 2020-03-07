@@ -1,9 +1,18 @@
-# awesome-micro-frontends
+# Awesome Micro-Frontends
 An awesome list of posts, videos, talks and tutorials on Micro Front-end architectures.
 
 
 This is a github version of the Micro Frontends collection by Elisabeth Engel without any referral urls and other noise.
 Hoping to keep this list updated as much as possible, any new links through PRs are appreciated.
+
+## Contents
+- [Websites](#websites)
+- [Posts](#posts)
+- [Videos](#videos)
+- [Slides](#slides)
+- [Tooling](#tooling)
+- [Experience Reports](#experience-reports)
+- [Follow on Twitter](#follow-on-twitter)
 
 ## Websites
 - [micro-frontends.org](http://micro-frontends.org)
