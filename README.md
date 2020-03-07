@@ -13,7 +13,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Videos](#videos)
 - [Slides](#slides)
 - [Experience Reports](#experience-reports)
-- [Follow on Twitter](#follow-on-twitter)a
+- [Follow on Twitter](#follow-on-twitter)
 - [Courses and Tutorials](#courses-and-tutorials)
 
 ## Slack Workspaces
@@ -115,7 +115,6 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Introduction to micro frontends by Kuba Holak](https://slides.com/kubaholak/introduction-to-micro-frontends)
 - [Microfrontends architecture by Lucca Mezzalira](https://docs.google.com/presentation/d/1-SGjpuL6TibMlnawW42nFA9rDXclLrC_vQrn2cBJMo8/edit#slide=id.g35f391192_00)
 - [Lets talk about Micro Frontends](https://microfrontend.deckset.net/)
-- [Micro Frontends - a strive for fully verticalized systems](https://speakerdeck.com/duffleit/micro-frontends-a-strive-for-fully-verticalized-systems)
 - [Building micro-frontends by Luca Mezzalira](https://docs.google.com/presentation/d/1DgK2mjJ9IYbCmjgzJH5ru5YLv88zKpcCxKrMozqnT3A/edit#slide=id.g42f50ce565_0_651)
 
 
