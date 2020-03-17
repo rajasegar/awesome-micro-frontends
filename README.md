@@ -30,13 +30,14 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Project Mosaic](https://www.mosaic9.org/)
 
 ### Frameworks
-- [Misk Web: a Micro-Frontends React + Redux + Typescript Framework](https://cashapp.github.io/misk-web/)
 - [Ara Framework](https://ara-framework.github.io/website/)
-- [OpenComponents, a framework for developing and distributing html components](https://github.com/opencomponents/oc)
-- [NUT](https://github.com/nut-project/nut)
-- [Single-Spa](https://single-spa.js.org/)
-- [PuzzleJs](https://github.com/puzzle-js/puzzle-js)
+- [Cellular JS](https://github.com/afsec/cellular-js)
 - [icestark, a micro frontends solution for large application](https://github.com/ice-lab/icestark)
+- [Misk Web: a Micro-Frontends React + Redux + Typescript Framework](https://cashapp.github.io/misk-web/)
+- [NUT](https://github.com/nut-project/nut)
+- [OpenComponents, a framework for developing and distributing html components](https://github.com/opencomponents/oc)
+- [PuzzleJs](https://github.com/puzzle-js/puzzle-js)
+- [Single-Spa](https://single-spa.js.org/)
 
 ### Platforms
 - [Mashroom Server](https://www.mashroom-server.com)
