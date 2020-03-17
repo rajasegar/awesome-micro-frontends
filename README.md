@@ -147,7 +147,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Assaf Gannon (@assafga1)](https://twitter.com/assafga1)
 - [Cam Jackson (@thecamjackson)](https://twitter.com/thecamjackson)
 - [David Leitner (@duffleit)](https://twitter.com/duffleit)
-- [Elisabeth Engel (@_lizzelo_)](https://twitter.com/_lizzelo_)
+- [Elisabeth Engel (@\_lizzelo\_)](https://twitter.com/\_lizzelo\_)
 - [Elmar 🐼 🇪🇺 (@elmarburke)](https://twitter.com/elmarburke)
 - [Emanuel Indermühle (@inthemill)](https://twitter.com/inthemill)
 - [Felipe Guizar Diaz (@felipeguizard)](https://twitter.com/felipeguizard)
