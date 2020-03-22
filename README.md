@@ -27,7 +27,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ## Tools
 
 ### Projects
-- [Project Mosaic](https://www.mosaic9.org/)
+- [Project Mosaic](https://www.mosaic9.org/) - a set of services, libraries together with a specification by Zalando
 
 ### Frameworks
 - [Ara Framework](https://ara-framework.github.io/website/)
