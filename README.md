@@ -94,6 +94,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Taming the Frontend Monolith](https://blog.logrocket.com/taming-the-front-end-monolith-dbaede402c39/)
 - [Micro-frontend Architecture: Replacing a Monolith from the Inside Out](https://levelup.gitconnected.com/micro-frontend-architecture-replacing-a-monolith-from-the-inside-out-61f60d2e14c1)
 - [Breaking down the last Monolith - Micro Frontends](https://dev.to/aregee/breaking-down-the-last-monolith-micro-frontends-hd4)
+- [Micro Frontends in Action](https://medium.com/swlh/micro-frontends-in-action-221d4ed81c35)
 
 ## Videos
 - [Micro Frontend - Web Rebels, Oslo 2018](https://www.youtube.com/watch?v=dTW7eJsIHDg)
