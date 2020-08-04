@@ -38,6 +38,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [OpenComponents, a framework for developing and distributing html components](https://github.com/opencomponents/oc)
 - [PuzzleJs](https://github.com/puzzle-js/puzzle-js)
 - [Single-Spa](https://single-spa.js.org/)
+- [qiankun, probably the most complete micro-frontends solution you ever met](https://qiankun.umijs.org/)
 - [One-app by American Express](https://github.com/americanexpress/one-app)
 
 ### Platforms
