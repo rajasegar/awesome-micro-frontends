@@ -40,6 +40,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Single-Spa](https://single-spa.js.org/)
 - [qiankun, probably the most complete micro-frontends solution you ever met](https://qiankun.umijs.org/)
 - [One-app by American Express](https://github.com/americanexpress/one-app)
+- [Scalecube-js: Toolkit for working in micro-services/micro-frontends architecture](https://github.com/scalecube/scalecube-js)
 
 ### Platforms
 - [Mashroom Server](https://www.mashroom-server.com)
