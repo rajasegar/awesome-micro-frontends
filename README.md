@@ -69,7 +69,6 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [6 Patterns for Microfrontends](https://blog.bitsrc.io/6-patterns-for-microfrontends-347ae0017ec0)
 - [Micro Frontends by Cam Jackson](https://martinfowler.com/articles/micro-frontends.html)
 - [Micro frontends - a microservice approach to front-end web development](https://medium.com/@tomsoderlund/micro-frontends-a-microservice-approach-to-front-end-web-development-f325ebdadc16)
-- [Microservices to Micro-Frontends](http://www.agilechamps.com/microservices-to-micro-frontends/)
 - [Cookie Cutter Scaling](https://paulhammant.com/categories.html#Cookie_Cutter_Scaling)
 - [Microservice Websites](https://gustafnk.github.io/microservice-websites/)
 - [What is a micro frontend](https://hub.packtpub.com/what-micro-frontend/)
@@ -109,7 +108,6 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Introduction to Piral](https://www.youtube.com/watch?v=SkKvpBHy_5I)
 
 ## Slides
-- [Micro Frontends - JSUnconf.eu 2017](https://speakerdeck.com/naltatis/micro-frontends-building-a-modern-webapp-with-multiple-teams)
 - [Micro Frontend - Web Rebels, Oslo 2018](https://noti.st/naltatis/HxcUfZ/micro-frontends-think-smaller-avoid-the-monolith-love-the-backend)
 - [Migrating from Monolith to Microfrontends](http://slides.com/yaprakayazoglu/monolith-to-microfrontend)
 - [Microservice Websites (microXchg 2017)](https://www.slideshare.net/GustafKotte/microservice-websites-microxchg-2017)
@@ -141,7 +139,6 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Using Micro-Frontends to Permanently Solve the Legacy JavaScript Problem](https://medium.com/hacking-talent/using-micro-frontends-to-permanently-solve-the-legacy-javascript-problem-5fba18b0ceac)
 - [Micro Frontends with Gustaf Nilsson Kotte](https://www.case-podcast.org/22-micro-frontends-with-gustaf-nilsson-kotte)
 - [Experiences Using Micro Frontends at IKEA](https://www.infoq.com/news/2018/08/experiences-micro-frontends/)
-- [Microservice Websites: Building consumer-facing websites with multiple teams](https://gustafnk.github.io/microservice-websites)
 
 ## Follow on Twitter
 
