@@ -33,6 +33,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Ara Framework](https://ara-framework.github.io/website/)
 - [Cellular JS](https://github.com/afsec/cellular-js)
 - [icestark, a micro frontends solution for large application](https://github.com/ice-lab/icestark)
+- [Isomorphic Layout Composer](https://github.com/namecheap/ilc) - complete solution for Micro Frontends composition into SPA with SSR support
 - [Misk Web: a Micro-Frontends React + Redux + Typescript Framework](https://cashapp.github.io/misk-web/)
 - [NUT](https://github.com/nut-project/nut)
 - [OpenComponents, a framework for developing and distributing html components](https://github.com/opencomponents/oc)
@@ -98,6 +99,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Micro-frontend Architecture: Replacing a Monolith from the Inside Out](https://levelup.gitconnected.com/micro-frontend-architecture-replacing-a-monolith-from-the-inside-out-61f60d2e14c1)
 - [Breaking down the last Monolith - Micro Frontends](https://dev.to/aregee/breaking-down-the-last-monolith-micro-frontends-hd4)
 - [Micro Frontends in Action](https://medium.com/swlh/micro-frontends-in-action-221d4ed81c35)
+- [How to build your first Micro Frontend with SSR in minutes](https://levelup.gitconnected.com/how-to-build-your-first-micro-frontend-with-ssr-in-minutes-95cd57788529)
 
 ## Videos
 - [Micro Frontend - Web Rebels, Oslo 2018](https://www.youtube.com/watch?v=dTW7eJsIHDg)
