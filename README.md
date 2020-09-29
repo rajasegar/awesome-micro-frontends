@@ -43,6 +43,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [One-app by American Express](https://github.com/americanexpress/one-app)
 - [Scalecube-js: Toolkit for working in micro-services/micro-frontends architecture](https://github.com/scalecube/scalecube-js)
 - [Berial - Simple micro-front end framework](https://github.com/berialjs/berial)
+- [Nuz is an open-source project, the runtime package manager for web platform.](https://docs.nuz.app/introduction/overview) - WIP.
 
 ### Platforms
 - [Mashroom Server](https://www.mashroom-server.com)
@@ -58,7 +59,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Proxy middleware for express that enables composition of microservices.](https://github.com/tes/compoxure)
 - [Service Oriented Front-end](https://github.com/CanopyTax/sofe)
 - [Simulate a micro frontend project using Node.js, React and NGinx Reverse Proxy in Alpine Docker images](https://github.com/willmendesneto/micro-frontend-pages)
-
+- [Micro-Frontends architecture](https://docs.nuz.app/guides/micro-frontends-architecture)
 
 ## Books
 - [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action)
@@ -178,6 +179,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Yaprak Ayazoğlu (@yaprakaya)](https://twitter.com/yaprakaya)
 - [Zack Jackson (@ScriptedAlchemy)](https://twitter.com/ScriptedAlchemy)
 - [Rahul Gaur (@iamaregee)](https://twitter.com/iamaregee)
+- [Lam Hieu (@_lamhieu)](https://twitter.com/_lamhieu)
 
 
 ## Courses and Tutorials
