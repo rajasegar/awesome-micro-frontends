@@ -33,7 +33,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Ara Framework](https://ara-framework.github.io/website/)
 - [Cellular JS](https://github.com/afsec/cellular-js)
 - [icestark, a micro frontends solution for large application](https://github.com/ice-lab/icestark)
-- [Isomorphic Layout Composer](https://github.com/namecheap/ilc) - complete solution for Micro Frontends composition into SPA with SSR support
+- [Isomorphic Layout Composer](https://github.com/namecheap/ilc) - Complete solution for Micro Frontends composition into SPA with SSR support.
 - [Misk Web: a Micro-Frontends React + Redux + Typescript Framework](https://cashapp.github.io/misk-web/)
 - [NUT](https://github.com/nut-project/nut)
 - [OpenComponents, a framework for developing and distributing html components](https://github.com/opencomponents/oc)
@@ -109,6 +109,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Breaking The Monolith](https://vimeo.com/97666093)
 - [Microservice UI Composition](https://www.oio.de/m/konf/wjax2016/Microservice-UI_WJAX2016.pdf)
 - [Introduction to Piral](https://www.youtube.com/watch?v=SkKvpBHy_5I)
+- [Micro Frontend Architecture - Building an Extensible UI Platform](https://www.youtube.com/watch?v=9Xo-rGUq-6E) - A talk by Erik Grijzen on how New Relic implemented Micro Frontends.
 
 ## Slides
 - [Micro Frontend - Web Rebels, Oslo 2018](https://noti.st/naltatis/HxcUfZ/micro-frontends-think-smaller-avoid-the-monolith-love-the-backend)
@@ -125,6 +126,8 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Microfrontends architecture by Lucca Mezzalira](https://docs.google.com/presentation/d/1-SGjpuL6TibMlnawW42nFA9rDXclLrC_vQrn2cBJMo8/edit#slide=id.g35f391192_00)
 - [Lets talk about Micro Frontends](https://microfrontend.deckset.net/)
 - [Building micro-frontends by Luca Mezzalira](https://docs.google.com/presentation/d/1DgK2mjJ9IYbCmjgzJH5ru5YLv88zKpcCxKrMozqnT3A/edit#slide=id.g42f50ce565_0_651)
+- [Micro Frontend Architecture - Building an Extensible UI Platform](https://speakerdeck.com/erikgrijzen/micro-frontend-architecture-building-an-extensible-ui-platform) - A talk by Erik Grijzen on how New Relic implemented Micro Frontends.
+
 
 
 ## Experience Reports
