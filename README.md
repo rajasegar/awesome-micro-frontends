@@ -15,6 +15,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Experience Reports](#experience-reports)
 - [Follow on Twitter](#follow-on-twitter)
 - [Courses and Tutorials](#courses-and-tutorials)
+- [Podcasts](#podcasts)
 
 ## Slack Workspaces
 - [Micro-frontends](https://join.slack.com/t/micro-frontendsgroup/shared_invite/enQtNzA0NjM2NjA5NjU0LWQ5MjFiNjkxZTRhYTU3ZjQ3NWU1Njg3MWFjYzhjZjVhNjAxMzdkODJiZTMzNDZiYmYwZjUwZTk1ZmU3M2M2NDI)
@@ -110,6 +111,14 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Microservice UI Composition](https://www.oio.de/m/konf/wjax2016/Microservice-UI_WJAX2016.pdf)
 - [Introduction to Piral](https://www.youtube.com/watch?v=SkKvpBHy_5I)
 - [Micro Frontend Architecture - Building an Extensible UI Platform](https://www.youtube.com/watch?v=9Xo-rGUq-6E) - A talk by Erik Grijzen on how New Relic implemented Micro Frontends.
+- [Microfrontends and single spa](https://www.youtube.com/playlist?list=PLLUD8RtHvsAOhtHnyGx57EYXoaNsxGrTU) - Playlist by Joel Denning.
+- [Micro-Frontends: Whay, why and how?](https://www.youtube.com/watch?v=w58aZjACETQ) - A Video by Jack Herrington.
+- [Web Components for Micro Frontends](https://www.youtube.com/watch?v=XUtCnA9WEgQ) - Jack Herrington using Web Components for Micro Frontends.
+- [Micro Frontends using single-spa](https://www.youtube.com/watch?v=wU06eTMQ6yI) - Jack Herrington using single-spa.
+- [Micro Frontends using Open Components](https://www.youtube.com/watch?v=9CG0LeswOoM) - Jack Herrington on using Open Components.
+- [DIY Micro FE Framework](https://www.youtube.com/watch?v=4U067O3_fYk) - Jack Herrington on building a Micro-FE Framework.
+- [Micro-FEs in Zoid](https://www.youtube.com/watch?v=2jhTHjF-e2Y) - Jack Herrington on using Zoid.
+- [Edge Side Includes for Micro-FEs](https://www.youtube.com/watch?v=4PoNBZl4t0Y) - Jack Herrington on using ESI.
 
 ## Slides
 - [Micro Frontend - Web Rebels, Oslo 2018](https://noti.st/naltatis/HxcUfZ/micro-frontends-think-smaller-avoid-the-monolith-love-the-backend)
@@ -189,5 +198,8 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Micro Frontends Architecture](https://www.pluralsight.com/courses/micro-frontends-architecture)
 - [Building micro-frontends](https://learning.oreilly.com/live-training/courses/building-micro-frontends/0636920358800/)
 
-
-
+## Podcasts
+- [Michael Geers on Micro Frontends](https://www.se-radio.net/2020/08/episode-422-michael-geers-on-micro-frontends/) - Episode 422 in SE-Radio.
+- [What even is a micro frontend?](https://changelog.com/jsparty/121) - Michael Geers in JS Party.
+- [So You wanna use Monorepos and Micro Frontends](https://realtalkjavascript.simplecast.com/episodes/episode-99-so-you-wanna-use-monorepos-and-micro-frontends-in-your-enterprise-architecture-with-manfred-steyer) - Manfred Steyer in Real Talk JavaScript.
+- [What's so cool about Micro frontends](https://www.thoughtworks.com/podcasts/micro-frontends) - Thoughtworks Technology Podcasts.
