@@ -19,7 +19,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## Slack Workspaces
 - [Micro-frontends](https://join.slack.com/t/micro-frontendsgroup/shared_invite/enQtNzA0NjM2NjA5NjU0LWQ5MjFiNjkxZTRhYTU3ZjQ3NWU1Njg3MWFjYzhjZjVhNjAxMzdkODJiZTMzNDZiYmYwZjUwZTk1ZmU3M2M2NDI)
-- [Single-Spa](https://single-spa.slack.com/join/shared_invite/enQtMzIwMTcxNTU3ODQyLTM1Y2U1OWMzNTNjOWYyZDBlMDJhN2VkYzk3MDI2NzQ2Nzg0MzMzNjVhNWE2YjVhMTcxNjFkOWYzMjllMmUxMjk)
+- [Single-Spa](https://join.slack.com/t/single-spa/shared_invite/zt-j4c38g92-JmV7O~35dkN1CnaBkK7NTw)
 
 ## Websites
 - [micro-frontends.org](http://micro-frontends.org)
@@ -202,3 +202,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [What even is a micro frontend?](https://changelog.com/jsparty/121) - Michael Geers in JS Party.
 - [So You wanna use Monorepos and Micro Frontends](https://realtalkjavascript.simplecast.com/episodes/episode-99-so-you-wanna-use-monorepos-and-micro-frontends-in-your-enterprise-architecture-with-manfred-steyer) - Manfred Steyer in Real Talk JavaScript.
 - [What's so cool about Micro frontends](https://www.thoughtworks.com/podcasts/micro-frontends) - Thoughtworks Technology Podcasts.
+- [Micro-Front Ends with Natlia Venditto](https://webrush.io/episodes/episode-113-micro-front-ends-with-natlia-venditto) - Web Rush Podcast Episode 113 about Micro Front-ends.
