@@ -44,6 +44,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [One-app by American Express](https://github.com/americanexpress/one-app)
 - [Scalecube-js: Toolkit for working in micro-services/micro-frontends architecture](https://github.com/scalecube/scalecube-js)
 - [Berial - Simple micro-front end framework](https://github.com/berialjs/berial)
+- [Podium](https://podium-lib.io) - Easy server side composition of microfrontends
 - [Nuz is an open-source project, the runtime package manager for web platform.](https://docs.nuz.app/introduction/overview) - WIP.
 
 ### Platforms
