@@ -101,6 +101,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Breaking down the last Monolith - Micro Frontends](https://dev.to/aregee/breaking-down-the-last-monolith-micro-frontends-hd4)
 - [Micro Frontends in Action](https://medium.com/swlh/micro-frontends-in-action-221d4ed81c35)
 - [How to build your first Micro Frontend with SSR in minutes](https://levelup.gitconnected.com/how-to-build-your-first-micro-frontend-with-ssr-in-minutes-95cd57788529)
+- [You probably don’t need a micro-frontend](https://blog.scottlogic.com/2021/02/17/probably-dont-need-microfrontends.html)
 
 ## Videos
 - [Micro Frontend - Web Rebels, Oslo 2018](https://www.youtube.com/watch?v=dTW7eJsIHDg)
