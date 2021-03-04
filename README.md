@@ -46,6 +46,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Berial - Simple micro-front end framework](https://github.com/berialjs/berial)
 - [Podium](https://podium-lib.io) - Easy server side composition of microfrontends
 - [Nuz is an open-source project, the runtime package manager for web platform.](https://docs.nuz.app/introduction/overview) - WIP.
+- [Luigi - technology agnostic, open-source micro-frontend framework](https://luigi-project.io/)
 
 ### Platforms
 - [Mashroom Server](https://www.mashroom-server.com)
