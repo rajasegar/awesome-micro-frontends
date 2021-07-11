@@ -29,6 +29,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ### Projects
 - [Project Mosaic](https://www.mosaic9.org/) - A set of services, libraries together with a specification by Zalando.
+- [Bit](https://github.com/teambit/bit) - A tool for developing and composing / integrating independently versioned components.
 
 ### Frameworks
 - [Ara Framework](https://ara-framework.github.io/website/)
