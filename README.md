@@ -68,6 +68,11 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ## Books
 - [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action)
 - [Building Micro-Frontends](https://www.buildingmicrofrontends.com/)
+- [Micro Frontend & Micro Services - Build applications with Micro FE & Services](https://www.google.de/books/edition/Micro_Frontend_Micro_Services/pOvtDwAAQBAJ?hl=de&gbpv=0) - by Muralikrishna T.
+- [The Art of Micro Frontends](https://www.packtpub.com/product/the-art-of-micro-frontends/9781800563568) - by Florian Rappl.
+- [Practical Module Federation](https://module-federation.myshopify.com/products/practical-module-federation) - by Zack Jackson & Jack Herrington.
+- [Enterprise Angular - DDD, Nx Monorepos and Micro Frontends](https://leanpub.com/enterprise-angular) - by Manfred Steyer.
+- [Micro Frontends Architecture: Introduction, Design, Techniques & Technology](https://www.amazon.de/Micro-Frontends-Architecture-Introduction-Techniques/dp/1097927989/) - by Ajay Kumar.
 
 ## Posts
 - [Building Micro-Frontends With Single-spa, React, and Vue](https://dzone.com/articles/building-micro-frontends-with-single-spa-and-react)
