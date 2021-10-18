@@ -34,6 +34,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ### Frameworks
 - [Ara Framework](https://ara-framework.github.io/website/)
 - [Cellular JS](https://github.com/afsec/cellular-js)
+- [Garfish](https://github.com/modern-js-dev/garfish)
 - [icestark, a micro frontends solution for large application](https://github.com/ice-lab/icestark)
 - [Isomorphic Layout Composer](https://github.com/namecheap/ilc) - Complete solution for Micro Frontends composition into SPA with SSR support.
 - [Misk Web: a Micro-Frontends React + Redux + Typescript Framework](https://cashapp.github.io/misk-web/)
