@@ -76,6 +76,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Micro Frontends Architecture: Introduction, Design, Techniques & Technology](https://www.amazon.de/Micro-Frontends-Architecture-Introduction-Techniques/dp/1097927989/) - by Ajay Kumar.
 
 ## Posts
+- [The Future of Micro-Frontends](https://betterprogramming.pub/the-future-of-micro-frontends-2f527f97d506)
 - [Building Micro-Frontends With Single-spa, React, and Vue](https://dzone.com/articles/building-micro-frontends-with-single-spa-and-react)
 - [6 Patterns for Microfrontends](https://blog.bitsrc.io/6-patterns-for-microfrontends-347ae0017ec0)
 - [Micro Frontends by Cam Jackson](https://martinfowler.com/articles/micro-frontends.html)
@@ -208,6 +209,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Building micro-frontends](https://learning.oreilly.com/live-training/courses/building-micro-frontends/0636920358800/)
 
 ## Podcasts
+- [Micro-Frontends with Luca Mezzalira on Software Engineering Daily](https://softwareengineeringdaily.com/2022/02/14/micro-frontends-with-luca-mezzalira/)
 - [Michael Geers on Micro Frontends](https://www.se-radio.net/2020/08/episode-422-michael-geers-on-micro-frontends/) - Episode 422 in SE-Radio.
 - [What even is a micro frontend?](https://changelog.com/jsparty/121) - Michael Geers in JS Party.
 - [So You wanna use Monorepos and Micro Frontends](https://realtalkjavascript.simplecast.com/episodes/episode-99-so-you-wanna-use-monorepos-and-micro-frontends-in-your-enterprise-architecture-with-manfred-steyer) - Manfred Steyer in Real Talk JavaScript.
