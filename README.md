@@ -33,7 +33,6 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ### Frameworks
 - [Ara Framework](https://ara-framework.github.io/website/)
-- [Cellular JS](https://github.com/afsec/cellular-js)
 - [Garfish](https://github.com/modern-js-dev/garfish) - A powerful micro front-end framework.
 - [icestark, a micro frontends solution for large application](https://github.com/ice-lab/icestark)
 - [Isomorphic Layout Composer](https://github.com/namecheap/ilc) - Complete solution for Micro Frontends composition into SPA with SSR support.
@@ -46,7 +45,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [One-app by American Express](https://github.com/americanexpress/one-app)
 - [Scalecube-js: Toolkit for working in micro-services/micro-frontends architecture](https://github.com/scalecube/scalecube-js)
 - [Berial - Simple micro-front end framework](https://github.com/berialjs/berial)
-- [Podium](https://podium-lib.io) - Easy server side composition of microfrontends
+- [Podium](https://podium-lib.io) - Easy server side composition of microfrontends.
 - [Nuz is an open-source project, the runtime package manager for web platform.](https://docs.nuz.app/introduction/overview) - WIP.
 - [Luigi - technology agnostic, open-source micro-frontend framework](https://luigi-project.io/)
 
@@ -69,11 +68,11 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ## Books
 - [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action)
 - [Building Micro-Frontends](https://www.buildingmicrofrontends.com/)
-- [Micro Frontend & Micro Services - Build applications with Micro FE & Services](https://www.google.de/books/edition/Micro_Frontend_Micro_Services/pOvtDwAAQBAJ?hl=de&gbpv=0) - by Muralikrishna T.
-- [The Art of Micro Frontends](https://www.packtpub.com/product/the-art-of-micro-frontends/9781800563568) - by Florian Rappl.
-- [Practical Module Federation](https://module-federation.myshopify.com/products/practical-module-federation) - by Zack Jackson & Jack Herrington.
-- [Enterprise Angular - DDD, Nx Monorepos and Micro Frontends](https://leanpub.com/enterprise-angular) - by Manfred Steyer.
-- [Micro Frontends Architecture: Introduction, Design, Techniques & Technology](https://www.amazon.de/Micro-Frontends-Architecture-Introduction-Techniques/dp/1097927989/) - by Ajay Kumar.
+- [Micro Frontend & Micro Services - Build applications with Micro FE & Services](https://www.google.de/books/edition/Micro_Frontend_Micro_Services/pOvtDwAAQBAJ?hl=de&gbpv=0) - By Muralikrishna T.
+- [The Art of Micro Frontends](https://www.packtpub.com/product/the-art-of-micro-frontends/9781800563568) - By Florian Rappl.
+- [Practical Module Federation](https://module-federation.myshopify.com/products/practical-module-federation) - By Zack Jackson & Jack Herrington.
+- [Enterprise Angular - DDD, Nx Monorepos and Micro Frontends](https://leanpub.com/enterprise-angular) - By Manfred Steyer.
+- [Micro Frontends Architecture: Introduction, Design, Techniques & Technology](https://www.amazon.de/Micro-Frontends-Architecture-Introduction-Techniques/dp/1097927989/) - By Ajay Kumar.
 
 ## Posts
 - [The Future of Micro-Frontends](https://betterprogramming.pub/the-future-of-micro-frontends-2f527f97d506)
@@ -110,7 +109,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Breaking down the last Monolith - Micro Frontends](https://dev.to/aregee/breaking-down-the-last-monolith-micro-frontends-hd4)
 - [Micro Frontends in Action](https://medium.com/swlh/micro-frontends-in-action-221d4ed81c35)
 - [How to build your first Micro Frontend with SSR in minutes](https://levelup.gitconnected.com/how-to-build-your-first-micro-frontend-with-ssr-in-minutes-95cd57788529)
-- [You probably don’t need a micro-frontend](https://blog.scottlogic.com/2021/02/17/probably-dont-need-microfrontends.html)
+- [You probably don't need a micro-frontend](https://blog.scottlogic.com/2021/02/17/probably-dont-need-microfrontends.html)
 
 ## Videos
 - [Micro Frontend - Web Rebels, Oslo 2018](https://www.youtube.com/watch?v=dTW7eJsIHDg)
