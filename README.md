@@ -129,7 +129,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [DIY Micro FE Framework](https://www.youtube.com/watch?v=4U067O3_fYk) - Jack Herrington on building a Micro-FE Framework.
 - [Micro-FEs in Zoid](https://www.youtube.com/watch?v=2jhTHjF-e2Y) - Jack Herrington on using Zoid.
 - [Edge Side Includes for Micro-FEs](https://www.youtube.com/watch?v=4PoNBZl4t0Y) - Jack Herrington on using ESI.
-
+- [The one right way to do microfrontends - two opinions](https://www.youtube.com/watch?v=u4SSOZhZ-3k) - Thoughtworks Presents
 ## Slides
 - [Micro Frontend - Web Rebels, Oslo 2018](https://noti.st/naltatis/HxcUfZ/micro-frontends-think-smaller-avoid-the-monolith-love-the-backend)
 - [Migrating from Monolith to Microfrontends](http://slides.com/yaprakayazoglu/monolith-to-microfrontend)
