@@ -113,6 +113,9 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [You probably don't need a micro-frontend](https://blog.scottlogic.com/2021/02/17/probably-dont-need-microfrontends.html)
 
 ## Videos
+- [Micro-Frontends Antipatterns](https://www.youtube.com/watch?v=7qQQUcG9fqo) - Talk by Luca Mezzalira in CityJS conference 2022.
+- [The Microfrontend Revolution: Using Webpack 5 Module Federation](https://www.youtube.com/watch?v=sJGADUuLk5Y) - A talk by Manfred Steyer in JS Poland 2022.
+- [Micro-Frontends with Module Federation: Beyond the Basics](https://hasgeek.com/jsfoo/microfrontends-conf/schedule/micro-frontends-with-module-federation-beyond-the-basics-9ax2jaoaxMo2bNcbuuNXdo) - Talk by Manfred Steyer in Micro Frontends Conference in JSFoo 2022.
 - [Micro Frontend - Web Rebels, Oslo 2018](https://www.youtube.com/watch?v=dTW7eJsIHDg)
 - [Break Up With Your Frontend Monolith - JS Kongress 2017](https://www.youtube.com/watch?v=W3_8sxUurzA)
 - [YouTube Playlist - Micro Frontend Talks](https://www.youtube.com/playlist?list=PLI1AtZo9B3YL_xpi19IuxFcTuCi2_thQT)
@@ -129,7 +132,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [DIY Micro FE Framework](https://www.youtube.com/watch?v=4U067O3_fYk) - Jack Herrington on building a Micro-FE Framework.
 - [Micro-FEs in Zoid](https://www.youtube.com/watch?v=2jhTHjF-e2Y) - Jack Herrington on using Zoid.
 - [Edge Side Includes for Micro-FEs](https://www.youtube.com/watch?v=4PoNBZl4t0Y) - Jack Herrington on using ESI.
-- [The one right way to do microfrontends - two opinions](https://www.youtube.com/watch?v=u4SSOZhZ-3k) - Thoughtworks Presents
+- [The one right way to do microfrontends - two opinions](https://www.youtube.com/watch?v=u4SSOZhZ-3k) - A Talk by Mario Fernandez for Thoughtworks Presents.
 ## Slides
 - [Micro Frontend - Web Rebels, Oslo 2018](https://noti.st/naltatis/HxcUfZ/micro-frontends-think-smaller-avoid-the-monolith-love-the-backend)
 - [Migrating from Monolith to Microfrontends](http://slides.com/yaprakayazoglu/monolith-to-microfrontend)
