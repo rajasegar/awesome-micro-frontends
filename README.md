@@ -210,6 +210,10 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ## Courses and Tutorials
 - [Micro Frontends Architecture](https://www.pluralsight.com/courses/micro-frontends-architecture)
 - [Building micro-frontends](https://learning.oreilly.com/live-training/courses/building-micro-frontends/0636920358800/)
+- [Micro-frontends Decisions Framework](https://www.pluralsight.com/courses/ng-conf-enterprise-session-10)
+- [Microfrontends with React: A Complete Developer's Guide](https://www.udemy.com/course/microfrontend-course/)
+- [Learn all about Micro-Frontends](https://www.freecodecamp.org/news/learn-all-about-micro-frontends/)
+
 
 ## Podcasts
 - [Micro-Frontends with Luca Mezzalira on Software Engineering Daily](https://softwareengineeringdaily.com/2022/02/14/micro-frontends-with-luca-mezzalira/)
