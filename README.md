@@ -46,7 +46,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Scalecube-js: Toolkit for working in micro-services/micro-frontends architecture](https://github.com/scalecube/scalecube-js)
 - [Berial - Simple micro-front end framework](https://github.com/berialjs/berial)
 - [Podium](https://podium-lib.io) - Easy server side composition of microfrontends.
-- [Nuz is an open-source project, the runtime package manager for web platform.](https://docs.nuz.app/introduction/overview) - WIP.
+- [Nuz is an open-source project, the runtime package manager for web platform.](https://github.com/nuz-app/nuz) - Archived.
 - [Luigi - technology agnostic, open-source micro-frontend framework](https://luigi-project.io/)
 - [VoltranJS](https://github.com/hepsiburada/VoltranJS)
 
@@ -64,7 +64,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Proxy middleware for express that enables composition of microservices.](https://github.com/tes/compoxure)
 - [Service Oriented Front-end](https://github.com/CanopyTax/sofe)
 - [Simulate a micro frontend project using Node.js, React and NGinx Reverse Proxy in Alpine Docker images](https://github.com/willmendesneto/micro-frontend-pages)
-- [Micro-Frontends architecture](https://docs.nuz.app/guides/micro-frontends-architecture)
+- [Micro-Frontends architecture](https://github.com/nuz-app/nuz/tree/next/docs)
 
 ## Books
 - [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action)
@@ -204,7 +204,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Yaprak Ayazoğlu (@yaprakaya)](https://twitter.com/yaprakaya)
 - [Zack Jackson (@ScriptedAlchemy)](https://twitter.com/ScriptedAlchemy)
 - [Rahul Gaur (@iamaregee)](https://twitter.com/iamaregee)
-- [Lam Hieu (@_lamhieu)](https://twitter.com/_lamhieu)
+- [Lam Hieu (@lh0x00)](https://github.com/lh0x00)
 
 
 ## Courses and Tutorials
@@ -222,3 +222,12 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [So You wanna use Monorepos and Micro Frontends](https://realtalkjavascript.simplecast.com/episodes/episode-99-so-you-wanna-use-monorepos-and-micro-frontends-in-your-enterprise-architecture-with-manfred-steyer) - Manfred Steyer in Real Talk JavaScript.
 - [What's so cool about Micro frontends](https://www.thoughtworks.com/podcasts/micro-frontends) - Thoughtworks Technology Podcasts.
 - [Micro-Front Ends with Natlia Venditto](https://webrush.io/episodes/episode-113-micro-front-ends-with-natlia-venditto) - Web Rush Podcast Episode 113 about Micro Front-ends.
+
+## Who Uses
+
+### Sendo
+
+"Sen Do Joint Stock Company is a Vietnamese e-commerce retailer and online commerce platform. It is a subsidiary of Vietnamese software conglomerate FPT Corporation. According to iPrice’s third-quarter statistics for 2019, Shopee and Sendo emerged as Vietnam’s top two largest e-commerce platforms by web traffic."
+-- [Wikipedia](https://en.wikipedia.org/wiki/Sendo.vn).
+
+Applied Micro Frontends architecture many years ago, for modern web applications can be seen as [Sendo](https://sendo.vn) or [Sendo Farm](https://sendo.vn/sendofarm). Revealing, the architecture was built inspired by the [Nuz]([nuz](https://github.com/nuz-app/nuz)) project and developed with the participation of the founder of the [Nuz]([nuz](https://github.com/nuz-app/nuz)) project, is [Lam Hieu](https://github.com/lh0x00). The applications full server-side rendering support, similar to Next.js without any noticeable difference.
