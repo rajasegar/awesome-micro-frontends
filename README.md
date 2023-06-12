@@ -16,6 +16,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Follow on Twitter](#follow-on-twitter)
 - [Courses and Tutorials](#courses-and-tutorials)
 - [Podcasts](#podcasts)
+- [Who Uses](#who-uses)
 
 ## Slack Workspaces
 - [Micro-frontends](https://join.slack.com/t/micro-frontendsgroup/shared_invite/enQtNzA0NjM2NjA5NjU0LWQ5MjFiNjkxZTRhYTU3ZjQ3NWU1Njg3MWFjYzhjZjVhNjAxMzdkODJiZTMzNDZiYmYwZjUwZTk1ZmU3M2M2NDI)
@@ -227,7 +228,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ### Sendo
 
-"Sen Do Joint Stock Company is a Vietnamese e-commerce retailer and online commerce platform. It is a subsidiary of Vietnamese software conglomerate FPT Corporation. According to iPrice’s third-quarter statistics for 2019, Shopee and Sendo emerged as Vietnam’s top two largest e-commerce platforms by web traffic."
+"Sen Do Joint Stock Company is a Vietnamese e-commerce retailer and online commerce platform. It is a subsidiary of Vietnamese software conglomerate FPT Corporation. According to iPrice's third-quarter statistics for 2019, Shopee and Sendo emerged as Vietnam's top two largest e-commerce platforms by web traffic."
 -- [Wikipedia](https://en.wikipedia.org/wiki/Sendo.vn).
 
 Applied Micro Frontends architecture many years ago, for modern web applications can be seen as [Sendo](https://sendo.vn) or [Sendo Farm](https://sendo.vn/sendofarm). Revealing, the architecture was built inspired by the [Nuz](https://github.com/nuz-app/nuz) project and developed with the participation of the founder of the [Nuz](https://github.com/nuz-app/nuz) project, is [Lam Hieu](https://github.com/lh0x00). The applications full server-side rendering support, similar to Next.js without any noticeable difference.
