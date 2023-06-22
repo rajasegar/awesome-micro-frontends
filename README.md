@@ -5,6 +5,7 @@ An awesome list of resources about **Micro-Frontends** architecture such as tool
 Hoping to keep this list updated as much as possible, any new links through PRs are appreciated.
 
 ## Contents
+
 - [Slack Workspaces](#slack-workspaces)
 - [Websites](#websites)
 - [Tools](#tools)
@@ -19,20 +20,24 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Who Uses](#who-uses)
 
 ## Slack Workspaces
+
 - [Micro-frontends](https://join.slack.com/t/micro-frontendsgroup/shared_invite/enQtNzA0NjM2NjA5NjU0LWQ5MjFiNjkxZTRhYTU3ZjQ3NWU1Njg3MWFjYzhjZjVhNjAxMzdkODJiZTMzNDZiYmYwZjUwZTk1ZmU3M2M2NDI)
 - [Single-Spa](https://join.slack.com/t/single-spa/shared_invite/zt-j4c38g92-JmV7O~35dkN1CnaBkK7NTw)
 
 ## Websites
+
 - [micro-frontends.org](http://micro-frontends.org)
 - [Micro Frontends by Elisabeth Engel](https://micro-frontends.zeef.com/elisabeth.engel?ref=elisabeth.engel&share=ee53d51a914b4951ae5c94ece97642fc)
 
 ## Tools
 
 ### Projects
+
 - [Project Mosaic](https://www.mosaic9.org/) - A set of services, libraries together with a specification by Zalando.
 - [Bit](https://github.com/teambit/bit) - A tool for developing and composing / integrating independently versioned components.
 
 ### Frameworks
+
 - [Ara Framework](https://ara-framework.github.io/website/)
 - [Garfish](https://github.com/modern-js-dev/garfish) - A powerful micro front-end framework.
 - [icestark, a micro frontends solution for large application](https://github.com/ice-lab/icestark)
@@ -52,10 +57,12 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [VoltranJS](https://github.com/hepsiburada/VoltranJS)
 
 ### Platforms
+
 - [Mashroom Server](https://www.mashroom-server.com)
 - [Piral](https://piral.io)
 
 ### Related
+
 - [Angular_MicroApps_Different_Technologies](https://github.com/manfredsteyer/Angular_MicroApps_Different_Technologies)
 - [A tiny, fast, zero-dependency event emitter](https://github.com/chrisdavies/eev)
 - [Exercises for course "Integrating microservices on the frontend"](https://github.com/0xR/micro-frontend)
@@ -68,6 +75,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Micro-Frontends architecture](https://github.com/nuz-app/nuz/tree/next/docs)
 
 ## Books
+
 - [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action)
 - [Building Micro-Frontends](https://www.buildingmicrofrontends.com/)
 - [Micro Frontend & Micro Services - Build applications with Micro FE & Services](https://www.google.de/books/edition/Micro_Frontend_Micro_Services/pOvtDwAAQBAJ?hl=de&gbpv=0) - By Muralikrishna T.
@@ -77,6 +85,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Micro Frontends Architecture: Introduction, Design, Techniques & Technology](https://www.amazon.de/Micro-Frontends-Architecture-Introduction-Techniques/dp/1097927989/) - By Ajay Kumar.
 
 ## Posts
+
 - [The Future of Micro-Frontends](https://betterprogramming.pub/the-future-of-micro-frontends-2f527f97d506)
 - [Building Micro-Frontends With Single-spa, React, and Vue](https://dzone.com/articles/building-micro-frontends-with-single-spa-and-react)
 - [6 Patterns for Microfrontends](https://blog.bitsrc.io/6-patterns-for-microfrontends-347ae0017ec0)
@@ -172,11 +181,13 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ## Follow on Twitter
 
 ### Hashtags
+
 - [#microfrontend hashtag on Twitter](https://twitter.com/hashtag/microfrontend)
 - [#microfrontends hashtag on Twitter](https://twitter.com/hashtag/microfrontends)
 
 
 ### People
+
 - [Amanda Muñoz (@amandamunoz)](https://twitter.com/amandamunoz)
 - [Assaf Gannon (@assafga1)](https://twitter.com/assafga1)
 - [Cam Jackson (@thecamjackson)](https://twitter.com/thecamjackson)
@@ -209,6 +220,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 
 ## Courses and Tutorials
+
 - [Micro Frontends Architecture](https://www.pluralsight.com/courses/micro-frontends-architecture)
 - [Building micro-frontends](https://learning.oreilly.com/live-training/courses/building-micro-frontends/0636920358800/)
 - [Micro-frontends Decisions Framework](https://www.pluralsight.com/courses/ng-conf-enterprise-session-10)
@@ -217,6 +229,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 
 ## Podcasts
+
 - [Micro-Frontends with Luca Mezzalira on Software Engineering Daily](https://softwareengineeringdaily.com/2022/02/14/micro-frontends-with-luca-mezzalira/)
 - [Michael Geers on Micro Frontends](https://www.se-radio.net/2020/08/episode-422-michael-geers-on-micro-frontends/) - Episode 422 in SE-Radio.
 - [What even is a micro frontend?](https://changelog.com/jsparty/121) - Michael Geers in JS Party.
@@ -228,7 +241,5 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ### Sendo
 
-"Sen Do Joint Stock Company is a Vietnamese e-commerce retailer and online commerce platform. It is a subsidiary of Vietnamese software conglomerate FPT Corporation. According to iPrice's third-quarter statistics for 2019, Shopee and Sendo emerged as Vietnam's top two largest e-commerce platforms by web traffic."
--- [Wikipedia](https://en.wikipedia.org/wiki/Sendo.vn).
-
-Applied Micro Frontends architecture many years ago, for modern web applications can be seen as [Sendo](https://sendo.vn) or [Sendo Farm](https://sendo.vn/sendofarm). Revealing, the architecture was built inspired by the [Nuz](https://github.com/nuz-app/nuz) project and developed with the participation of the founder of the [Nuz](https://github.com/nuz-app/nuz) project, is [Lam Hieu](https://github.com/lh0x00). The applications full server-side rendering support, similar to Next.js without any noticeable difference.
+- [Sendo](https://sendo.vn).
+- [Sendo Farm](https://sendo.vn/sendofarm).
