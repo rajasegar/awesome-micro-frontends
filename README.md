@@ -86,6 +86,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## Posts
 
+- [Everything You Need to Know About Micro Frontends](https://newsletter.systemdesign.one/p/micro-frontends)
 - [The Future of Micro-Frontends](https://betterprogramming.pub/the-future-of-micro-frontends-2f527f97d506)
 - [Building Micro-Frontends With Single-spa, React, and Vue](https://dzone.com/articles/building-micro-frontends-with-single-spa-and-react)
 - [6 Patterns for Microfrontends](https://blog.bitsrc.io/6-patterns-for-microfrontends-347ae0017ec0)
