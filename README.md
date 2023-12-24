@@ -16,6 +16,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Experience Reports](#experience-reports)
 - [Follow on Twitter](#follow-on-twitter)
 - [Courses and Tutorials](#courses-and-tutorials)
+- [Sample Projects](#sample-projects)
 - [Podcasts](#podcasts)
 - [Who Uses](#who-uses)
 
@@ -227,6 +228,14 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Micro-frontends Decisions Framework](https://www.pluralsight.com/courses/ng-conf-enterprise-session-10)
 - [Microfrontends with React: A Complete Developer's Guide](https://www.udemy.com/course/microfrontend-course/)
 - [Learn all about Micro-Frontends](https://www.freecodecamp.org/news/learn-all-about-micro-frontends/)
+
+
+## Sample Projects
+
+- [Module Federation](https://github.com/module-federation/module-federation-examples)
+- [React Single SPA](https://github.com/react-microfrontends)
+- [Vue Single SPA](https://github.com/vue-microfrontends)
+- [Piral](https://github.com/piral-samples)
 
 
 ## Podcasts
