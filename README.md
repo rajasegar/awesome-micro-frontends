@@ -56,6 +56,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Nuz is an open-source project, the runtime package manager for web platform.](https://github.com/nuz-app/nuz) - Archived.
 - [Luigi - technology agnostic, open-source micro-frontend framework](https://luigi-project.io/)
 - [VoltranJS](https://github.com/hepsiburada/VoltranJS)
+- [next-federation](https://github.com/tariqule/next-federation) - Runtime micro-frontends for Next.js: server-rendered islands and Module Federation 2.0 remote components.
 
 ### Platforms
 
